@@ -5,14 +5,14 @@
 
 
 
-### Working as [Mentor , Reviewer and Session Lead](https://www.linkedin.com/posts/ambika-sarin-055a7b155_never-stop-being-a-student-with-session-lead-activity-6875151444102787072-LP5e) in  many Nanodegree program such as : 
+### Working as [Mentor , Reviewer and Session Lead](https://www.udacity.com/blog/2021/12/never-stop-being-a-student-with-session-lead-nancy-al-aswad.html) in  many Nanodegree program such as : 
 
 
 
 
 
 
-**[My responsibility are:](https://www.udacity.com/blog/2021/12/never-stop-being-a-student-with-session-lead-nancy-al-aswad.html)**
+**[My responsibility are:](https://www.linkedin.com/posts/ambika-sarin-055a7b155_never-stop-being-a-student-with-session-lead-activity-6875151444102787072-LP5e)**
 
 
 
