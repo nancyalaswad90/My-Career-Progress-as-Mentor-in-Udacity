@@ -10,7 +10,11 @@
 
 
 
-**My responsibility are:**
+
+
+**[My responsibility are:](https://www.udacity.com/blog/2021/12/never-stop-being-a-student-with-session-lead-nancy-al-aswad.html)**
+
+
 
 
 =======================
