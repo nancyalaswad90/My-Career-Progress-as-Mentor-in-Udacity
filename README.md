@@ -4,7 +4,17 @@
 
 
 
-- Plagiarism Queue
+### Working as Mentor , Reviewer and Session Lead in  many Nanodegree program such as : 
+
+
+**My responsibility are: **
+=======================
+
+- Reviewer with  Plagiarism Queue
+
+- Mentor in the Knowledge Area 
+
+- Data Analyst Session Lead
 
 
 
