@@ -28,7 +28,7 @@
 
 
 
-###  [Udacity-Mentorship-program ](https://graduation.udacity.com/confirm/N9Q3HHTU)
+### The activity with  [Udacity-Mentorship-program ](https://graduation.udacity.com/confirm/N9Q3HHTU)
 .
 
 > ## [September Update About Your Performance and Mentor Level](https://mail.google.com/mail/u/0/?tab=rm&ogbl#label/Udacity/FMfcgzGlkFqXsdqSzchmJvfmlpXFMLkC)
