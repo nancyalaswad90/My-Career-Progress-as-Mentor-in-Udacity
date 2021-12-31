@@ -65,7 +65,7 @@
 | **😄Academic Certification**|
  | ------------ | 
  
-| **[Udacity Nanodegree Certifications](https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications)** | **[Udacity Challenges ](https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications)** | **[The Third Path in Medical Laboratory](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)** |**[SQL as OCP developer ](https://github.com/nancyalaswad90/nancyalaswad90/blob/master/Certification%20as%20Oracle%20developer%20professional%20.md)** |*[ Each Year Study Schedule](https://github.com/nancyalaswad90/Each-Year-Study-Schedule/blob/main/README.md)*
+| **[Udacity Nanodegree Certifications](https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications)** | **[Udacity Challenges ](https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications)** | **[The Third Path in Medical Laboratory](https://github.com/nancyalaswad90/Medical-Laboratory/blob/main/README.md)** |**[Udacity Nanodegree Certifications](https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications)** |**[Udacity Challenges ](https://github.com/nancyalaswad90/Udacity-Nanodegree-Certifications)** 
 |------------ |------------ | ------------ | ------------ |------------ |
 
 
