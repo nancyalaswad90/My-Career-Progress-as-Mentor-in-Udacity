@@ -52,6 +52,9 @@
 
 
 --------------------------
+
+
+
 ### The activity with  [Udacity-Mentorship-program](https://github.com/nancyalaswad90/Udacity-Mentorship-program) with  [Certifications](https://graduation.udacity.com/confirm/N9Q3HHTU)
 .
 
@@ -59,12 +62,25 @@
 
 
 
-> ## [September Update About Your Performance and Mentor Level](https://mail.google.com/mail/u/0/?tab=rm&ogbl#label/Udacity/FMfcgzGlkFqXsdqSzchmJvfmlpXFMLkC)
+-  ## [September Update About Your Performance and Mentor Level](https://mail.google.com/mail/u/0/?tab=rm&ogbl#label/Udacity/FMfcgzGlkFqXsdqSzchmJvfmlpXFMLkC)
 
+
+
+
+
+.
+
+
+-----------------------------------------------
+
+
+.
 
 
 
 > ## Business Analytics Session Lead
+
+
 
 -  Working With Misk Academy  as  Data Analyst Session Lead for `Two` Cohorts 
 
@@ -77,17 +93,17 @@
 
 
 
-
+.
 
 -----------------------------------------------
 
 
 
-### The activity with  [GitHub  as Most active GitHub users in Jordan ](https://commits.top/jordan.html)
+> ### The activity with  [GitHub  as Most active GitHub users in Jordan ](https://commits.top/jordan.html)
 
 
 
-Became one of the (( Most active GitHub users in Jordan ))  , Actually my profile got the third Rank in ((commits.top))
+- Became one of the **(( Most active GitHub users in Jordan ))**  , Actually my profile got the `third Rank` in ((commits.top))
 
 
 .
