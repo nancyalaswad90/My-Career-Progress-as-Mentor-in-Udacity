@@ -93,13 +93,12 @@ In Outreahy, we are recruiting interns to improve the localisation of the Turing
 - [MDAnalysis](https://github.com/MDAnalysis) : which is is an object-oriented Python library to analyze molecular dynamics trajectories.
 
 
-.
+
 
 - The activity with  [GitHub  as Most active GitHub users in Jordan ](https://commits.top/jordan.html)
 
 
-
-- Became one of the **(( Most active GitHub users in Jordan ))**  , Actually my profile got the `third Rank` in ((commits.top))
+Became one of the **(( Most active GitHub users in Jordan ))**  , Actually my profile got the `third Rank` in ((commits.top))
 
 
 .
