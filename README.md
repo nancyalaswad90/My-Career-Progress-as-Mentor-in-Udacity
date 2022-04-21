@@ -76,6 +76,20 @@
 
 
 
+> # open source projects :
+
+- [OSCSA  ; Open Science Community Saudi Arabia ](https://mailchi.mp/ce1bff2f3963/open-science-community-saudi-arabia)
+
+In Outreahy, we are recruiting interns to improve the localisation of the Turing Way book to Arabic and enrich the glossary. 
+
+.
+
+
+![image](https://user-images.githubusercontent.com/36210723/164456704-5679416a-34c4-423f-96f6-d14db5ba39f5.png)
+
+
+.
+
 > ### The activity with  [GitHub  as Most active GitHub users in Jordan ](https://commits.top/jordan.html)
 
 
