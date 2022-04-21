@@ -58,15 +58,12 @@
 
 
 
-> ## Business Analytics Session Lead
+> ## Business Analytics Tutor and Session Lead
 
 
 
 -  Working With Misk Academy  as  Data Analyst Session Lead for `Two` Cohorts 
 
-
-
-> ## Business  Analytics Tutor
 
 
 -  Working With  "Future Shapers Challenge" community  as  Tutor  for first Cohorts `2022`
