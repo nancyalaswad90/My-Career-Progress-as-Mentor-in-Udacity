@@ -23,11 +23,11 @@
 
 
 
-- Reviewer with  Plagiarism Queue
+- `Reviewer` with  `Plagiarism` Queue
 
-- Mentor in the Knowledge Area 
+- Mentor in the `Knowledge` Area 
 
-- Data Analyst Session Lead
+- Data Analyst `Session Lead`
 
 
 
