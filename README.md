@@ -78,7 +78,11 @@
 
 > # open source projects :
 
-- [OSCSA  ; Open Science Community Saudi Arabia ](https://mailchi.mp/ce1bff2f3963/open-science-community-saudi-arabia)
+
+==========================
+
+
+1 ) .  [OSCSA  ; Open Science Community Saudi Arabia ](https://mailchi.mp/ce1bff2f3963/open-science-community-saudi-arabia)
 
 In Outreahy, we are recruiting interns to improve the localisation of the Turing Way book to Arabic and enrich the glossary. 
 
@@ -90,12 +94,12 @@ In Outreahy, we are recruiting interns to improve the localisation of the Turing
 
 .
 
-- [MDAnalysis](https://github.com/MDAnalysis) : which is is an object-oriented Python library to analyze molecular dynamics trajectories.
+2 ) .  [MDAnalysis](https://github.com/MDAnalysis) : which is is an object-oriented Python library to analyze molecular dynamics trajectories.
 
 
 
 
-- The activity with  [GitHub  as Most active GitHub users in Jordan ](https://commits.top/jordan.html)
+3 ) .  The activity with  [GitHub  as Most active GitHub users in Jordan ](https://commits.top/jordan.html)
 
 
 Became one of the **(( Most active GitHub users in Jordan ))**  , Actually my profile got the `third Rank` in ((commits.top))
