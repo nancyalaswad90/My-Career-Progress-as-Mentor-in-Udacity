@@ -3,7 +3,6 @@
 > # My Career Progress as Mentor in Udacity 
 
 
-
 ### Working as [Mentor , Reviewer and Session Lead](https://www.udacity.com/blog/2021/12/never-stop-being-a-student-with-session-lead-nancy-al-aswad.html) in  many Nanodegree program such as : 
 
 
